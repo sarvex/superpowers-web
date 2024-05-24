@@ -12,6 +12,6 @@
   },
   "dependencies": {
     "operational-transform": "^0.2.3",
-    "pug": "^2.0.3"
+    "pug": "^3.0.2"
   }
 }
